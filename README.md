@@ -29,13 +29,17 @@ Learning → Building → Improving → Repeating
 
 Find me
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)" (https://github.com/abduxalilovashaxzoda)
-
-""Instagram" (https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)" (https://instagram.com/kxlilva.16)
-
-""Telegram" (https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)" (https://t.me/SuWanyii)
-
----
+<p align="center">
+  <a href="https://github.com/abduxalilovashaxzoda">
+    <img src="https://skillicons.dev/icons?i=github" width="45">
+  </a>
+  <a href="https://instagram.com/kxlilva.16">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45">
+  </a>
+  <a href="https://t.me/SuWanyii">
+    <img src="https://skillicons.dev/icons?i=telegram" width="45">
+  </a>
+</p>---
 
 <p align="center">
   <sub>Turning ideas into code.</sub>
