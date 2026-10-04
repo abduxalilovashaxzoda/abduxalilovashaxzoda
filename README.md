@@ -5,7 +5,7 @@
 <div align="center">Turning ideas into code
 
 Frontend Developer · Web Development · JavaScript
-
+ 
 </div>---
 
 About
